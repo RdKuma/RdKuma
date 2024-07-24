@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @RdKuma
-- 🌱 I’m currently learning php/laravel!
+- 👋 Hi, I’m Dani
+- 🌱 I’m currently learning JavaScript/ReactJS
 
 
 <!---
