@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Kumi
+- 👋 Hi, I’m @RdKuma
 - 🌱 I’m currently learning JavaScript/ReactJS
 
 
