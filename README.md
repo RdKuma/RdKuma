@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Dani
+- 👋 Hi, I’m Kumi
 - 🌱 I’m currently learning JavaScript/ReactJS
 
 
